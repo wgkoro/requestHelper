@@ -49,7 +49,6 @@ You can use these name to 3rd argument.
 - unset
 
 ## Methods
-=============
 
 ### Http::method()
 
