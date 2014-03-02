@@ -15,7 +15,7 @@ else{
 }
 ```
 
-Here're easy way to get values using these class methods.
+Here're easy ways to get values using class methods.
 ```PHP
 // Example url: http://aaa.bbb.com/?val=1
 $val = Http::get("val");    // => string("1")
