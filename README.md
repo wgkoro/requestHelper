@@ -54,26 +54,32 @@ You can use these name to 3rd argument.
 ### Http::method()
 
 Returns request method name.(Example: "GET", "POST", "PUT"...)
+
 =============
 ### Http::get(key_name, default_value=null, cast_type="string")
 
 Returns $_GET value.
+
 =============
 ### Http::post(key_name, default_value=null, cast_type="string")
 
 Returns $_POST value.
+
 =============
 ### Http::request(key_name, default_value=null, cast_type="string")
 
 Returns $_REQUEST value.
+
 =============
 ### Http::coolie(key_name, default_value=null, cast_type="string")
 
 Returns $_COOKIE value.
+
 =============
 ### Env::session(key_name, default_value=null, cast_type="string")
 
 Returns $_SESSION value.
+
 =============
 ### Env::server(key_name, default_value=null, cast_type="string")
 
