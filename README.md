@@ -70,7 +70,7 @@ Returns $_POST value.
 Returns $_REQUEST value.
 
 =============
-### Http::coolie(key_name, default_value=null, cast_type="string")
+### Http::cookie(key_name, default_value=null, cast_type="string")
 
 Returns $_COOKIE value.
 
